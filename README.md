@@ -5,7 +5,9 @@ The above project is accomplished using a DL model on Art Detection and Flask Ba
 
 In order to run the project you will have to first run the flask app.py
 
-After that in the terminal (if you are using VScode on Windows) cd into web application (ie change directory into web application) and run
+After that in the terminal (if you are using VScode on Windows) 
+
+cd into web application (ie change directory into web application) and run
 
 npm start
 
